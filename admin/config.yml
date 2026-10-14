@@ -18,10 +18,10 @@ collections:
       name: business_name
       widget: string
     - label: Business Logo
-            name: business_logo
-            widget: image
-            required: false
-            hint: Upload a PNG, SVG, or JPG business logo.
+      name: business_logo
+      widget: image
+      required: false
+      hint: Upload a PNG, SVG, or JPG business logo.
     - label: Headline
       name: headline
       widget: string
